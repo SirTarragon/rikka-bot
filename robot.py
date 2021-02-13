@@ -31,6 +31,8 @@ import Mods.wolfram as wolfram
 import Mods.colors as colors
 import Mods.assign as assign
 import Mods.mal as mal
+import Mods.remind as remind
+import Mods.remindUser as remindUser
 from pushbullet import Pushbullet
 
 # Auth tokens
